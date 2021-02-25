@@ -1,5 +1,14 @@
 {
-	"name": "fcc-learn-npm-package-json",
+	"name": "savepong-learn-npm-package-json",
+	"version": "0.0.1",
+	"author": "Savepong",
+	"description": "If you some day plan to publish a package to npm, this is the string that should sell your idea to the user when they decide whether to install your package or not. However, that’s not the only use case for the description, it’s a great way to summarize what a project does. It’s just as important in any Node.js project to help other developers, future maintainers or even your future self understand the project quickly.",
+	"license": "MIT",
+	"keywords": [
+		"freecodecamp",
+		"learn",
+		"microservices"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
